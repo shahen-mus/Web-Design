@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <title>Acupunture</title>
+</head>
+<body>
+    <nav>
+        <a class="mainNav" href="index.html" title="Home">Home</a> 
+        <a class="mainNav" href="services.html" title="Services">Services</a>
+        <a class="mainNav" href="about.html" title="About Us">About Us</a>
+        <a class="mainNav" href="contact.html" title="Contact">Contact</a>
+        <ul>
+            <li><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+        </ul>
+        <form id="searchBar" method="POST" action="mail.php">
+            <input type="text" id="name" name="name" tabindex="1" 
+            placeholder="Search Here" required maxlength="50">
+            <input type="Submit" value="Search">
+        </form>
+    </nav>
+    <header>
+            <h1> AcuCure </h1>
+            <a href=""><img id="logo" src="assets/images/logo.jpg" alt="logo"></a>
+    </header>
+    <main>
+        <div id="left">
+            <h2 class="title"><i>Professional Acupunture</i></h2>
+            <p>Acupuncture and the related Moxibustion are alternative medical treatments that have been practised for over 5000 years by Chinese acupuncturists .....<a href="services.html" target="_blank">more</a></p><br>
+            <h2 class="title"><i>Cupping Therapy</i></h2>
+            <p>Cupping is an ancient form of alternative medicine in which a local suction is created on the skin this mobilizes blood flow in order to promote healing .....<a href="services.html" target="_blank">more</a></p><br>
+            <h2 class="title"><i>Moxibustion</i></h2>
+            <p>Moxibustion is a traditional Orientantal therapy involves the stimulation of an acupoint by burning a cone or cylinder of moxa placed onto it .....<a href="services.html" target="_blank">more</a></p><br>
+        </div>
+        <div id="right">
+            <a href=""><img class="thumbs" src="assets/images/img1.jpg" alt="img1" height="23%"></a>
+            <a href=""><img class="thumbs" src="assets/images/img2.jpg" alt="img2"></a>
+            <a href=""><img class="thumbs" src="assets/images/img3.jpg" alt="img3"></a>
+        </div>
+    </main>
+    <footer> 
+        Copyright &copy; 2019 | AcuCure by Shahen Mustafa
+    </footer>
+</body>
+</html>
