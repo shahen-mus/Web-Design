@@ -3,7 +3,7 @@ Below are some of the websites I’ve designed, developed, and delivered for cli
 # My Web Projects
 
 ## 1. [Deb Crowe](https://debcrowe.com/)
-![Screenshot](DebCrowe.png) 
+![Screenshot](debcrowe.com_.png) 
 *Built using WordPress + custom CSS for client branding.*
 
 ## 2. [Yellow Brick Pottery](https://yellowbrickpottery.ca/)
