@@ -7,15 +7,15 @@ Below are some of the websites I’ve designed, developed, and delivered for cli
 *Built using WordPress + custom CSS for client branding.*
 
 ## 2. [Yellow Brick Pottery](https://yellowbrickpottery.ca/)
-![Image Alt](https://github.com/shahen-mus/Web-Design/blob/1d2c6a0ca110cf566f7c17c7427f7c9ceab6266d/My%20Web%20Project/Deb%20Crowe.png)
+![Screenshot](yellowbrickpottery.ca.jpeg)
 *Designed using WordPress + custom CSS for client branding and responsive layout.*
 
 ## 3. [Auto Trim Design](https://atdlondon.ca/)
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/images/screenshot1.png)
+![Screenshot](atdlondon.ca.jpeg)
 *Designed UI, developed front-end, optimized performance*
 
 ## 4. [Bear Creek Bin Rentals](https://bearcreekbins.ca/)
-![Screenshot](screenshot2.png)
+![Screenshot](bearcreekbins.ca.jpeg)
 *Designed using WordPress + Designed UI + built front-end.*
 
 ## 5. [Net Zero Insulation Inc](https://nzinsulation.ca/)
@@ -23,9 +23,9 @@ Below are some of the websites I’ve designed, developed, and delivered for cli
 *Designed using WordPress + Designed UI + Custom JS animations on WordPress + responsive layout.*
 
 ## 6. [ABA Compass Behavior Therapy Services Inc.](https://abacompass.ca/)
-![Screenshot](screenshot2.png)
+![Screenshot](abacompass.ca.jpeg)
 *Designed using WordPress for client branding.*
 
 ## 7. [Ourr Home & Appliances](https://www.ourrhomeappliances.com/)
-![Screenshot](screenshot2.png)
+![Screenshot](www.ourrhomeappliances.com.jpeg)
 *Custom e-commerce store for client branding.*
