@@ -29,3 +29,7 @@ Below are some of the websites I’ve designed, developed, and delivered for cli
 ## 7. [Ourr Home & Appliances](https://www.ourrhomeappliances.com/)
 ![Screenshot](www.ourrhomeappliances.com.jpeg)
 *Custom e-commerce store for client branding.*
+
+## 8. [ExarStudios - Startup company](https://rVideo.com & https://arcadia.ca/)
+![Screenshot](domains for sale)
+*Optimized for SEO, designed UI, developed front-end, and optimized performance for client branding.*
