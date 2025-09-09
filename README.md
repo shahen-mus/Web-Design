@@ -1,4 +1,4 @@
 # Web-Design
-## Developing elements and layout of websites
+## Developing elements & layout of websites
 ### Project Samples:
-Coding sites using programming languages like HTML, CSS, and JavaScript.
+Coding using programming languages like HTML, CSS, and JavaScript.
